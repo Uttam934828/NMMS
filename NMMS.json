@@ -10,14 +10,14 @@
         "device_id": "device456",
         "username": "user2",
         "password": "pass456",
-        "expirydate": "15-06-2025",
+        "expirydate": "01-03-2025",
         "Allowoffline": false
     },
     {
         "device_id": "736a52d9f0873eed",
         "username": "My",
         "password": "Sunu@9348",
-        "expirydate": "13-07-2025",
+        "expirydate": "30-07-2025",
         "Allowoffline": false
     }
 ]

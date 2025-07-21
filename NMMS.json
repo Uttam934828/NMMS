@@ -37,17 +37,16 @@
      {
         "device_id": "e6231634fe7a9bb6",
         "username": "Mithu",
-        "password": "Maira",
+        "password": "Mithu",
         "expirydate": "21-08-2025",
         "Allowoffline": false
      },
-     {
+    {
         "device_id": "25d617799d4901ae",
-        "username": "Mithu",
-        "password": "Maira",
+        "username": "Maira",
+        "password": "Maithu",
         "expirydate": "21-08-2025",
         "Allowoffline": false
-     },
-     
+    }
       
 ]

@@ -147,6 +147,14 @@
         "password": "Pass12",
         "expirydate": "12-08-2025",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "79012dfdd57c06ae",
+        "username": "Devx198",
+        "password": "Pass13",
+        "expirydate": "30-08-2025",
+        "Allowoffline": false
     }
       
 ]
